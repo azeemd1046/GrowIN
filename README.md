@@ -107,6 +107,30 @@ Understand what content performs best and continuously improve your personal bra
 * Supabase
 
 ---
+## 📁 Project Structure
+
+```text
+growin/
+
+├── apps/
+│   ├── web/
+│   └── api/
+│
+├── packages/
+│   ├── ui/
+│   ├── prompts/
+│   ├── shared/
+│   └── types/
+│
+├── database/
+│
+├── docs/
+│
+├── assets/
+│
+└── README.md
+
+```
 
 ## 🗺 Roadmap
 
