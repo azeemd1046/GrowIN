@@ -1,6 +1,6 @@
 # 🚀 GrowIN
 
-> **The AI Personal Branding OS for LinkedIn**
+> *The AI Personal Branding OS for LinkedIn*
 
 GrowIN is an AI-powered SaaS platform that helps professionals build their personal brand on LinkedIn through intelligent content creation, strategy, and personalization.
 
